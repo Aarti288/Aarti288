@@ -45,6 +45,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti288&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+<h2>  How do you comfort a JavaScript bug? You console it 😄</h2>
+
 
 
 
